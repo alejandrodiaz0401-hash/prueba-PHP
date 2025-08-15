@@ -1,0 +1,27 @@
+*{ 
+    margin:0px;
+    padding:0px; 
+}
+
+body{
+
+
+background-color: aqua;
+}
+
+#container{ 
+    width: 80%;
+    margin: 0px auto;
+    border: 1px solid black;
+    
+}
+
+#header { 
+    
+    height: 110px;
+    background-color: rgb(118, 245, 0);
+    color: white;
+    text-align:center ;
+    line-height: 100px;
+}
+

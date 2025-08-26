@@ -117,14 +117,14 @@ background-color: rgba(17, 145, 134, 0.918);
     padding-bottom: 15px;
     font-size: 16px;
     font-weight: bold
-    background-color: (255, 0, 0); 
-    border-bottom: 2px solid #000;
-   
+    
+
 }
 #central{
-    width: 78%;
-    min-height: 650px;
-    float: right
-    border: 1px solid blue;
-    margin-top: 20px;
+     width: 70%;
+    min-height: 630px;
+     border: 1px solid rgb(8, 243, 243);
+     margin-top: 10px;
+     margin-left: 10px;
+     float :left
 }

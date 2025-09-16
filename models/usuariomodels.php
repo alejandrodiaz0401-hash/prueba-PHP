@@ -79,4 +79,10 @@ function setimagen($imagen){
 
 }
 
+   public function conseguirTodos(){
+
+    echo "IMPRIMENDO TODOS LOS USUARIOS";
+   }
+
 }
+

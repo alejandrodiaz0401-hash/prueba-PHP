@@ -7,3 +7,5 @@ require_once 'controllers/UsuarioController.php';
 $controller = new usuarioController();
 
 $controller->mostrartodos();
+
+$controller->crear();
